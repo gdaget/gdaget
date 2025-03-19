@@ -9,11 +9,10 @@
 
 
 ## Moonlight - For TCL
---![gdaget - unfinished](https://github.com/user-attachments/assets/b073f3db-97c2-462e-93f9-9510190de68c)
+--https://www.roblox.com/games/16155872293/moonlight-map-1
 
-## "Косят убейся"
---![gdaget1 - unfinished](https://github.com/user-attachments/assets/ced472fa-4dec-47d2-a48d-b88f2c74da69)
-(переконвертируйте в .rblx)
+## "Костя убейся"
+--https://www.roblox.com/games/137145705788723/Building-Map
 
 ## Общее колл-во выполненых заказов за 2022 - 0
 ## Общее колл-во выполненых заказов за 2023 - 0
